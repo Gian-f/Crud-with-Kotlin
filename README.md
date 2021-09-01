@@ -7,4 +7,4 @@
 ![image](https://user-images.githubusercontent.com/61558415/131681373-2c5129ff-2e16-4102-b6cd-ca51acd2524f.png)
 
 
-feito por [Gian](https://github.com/Gian-f)
+feito por [Gian](https://github.com/Gian-f).
